@@ -18,3 +18,7 @@ Response header
 1: Hold a different type of scripts 
 2: It grab a image from svg+xml
 3:The purpose is to track script and report if they pass or fail
+
+
+Short Summary
+The slowest was the script with the speed 44ms because it was a script with a size of 141 kb compare other one like number 3 which had 22kb with a speed of 22ms and number 2 had a speed of 02ms and had 0.2 kb. Both number 1 and number 2 use 200 ok mean that the server successfully received and understood the request that the client was requestion return the respond body.
