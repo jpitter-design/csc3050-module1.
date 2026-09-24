@@ -1,9 +1,9 @@
 -Request URL 
--
+1. https://en.wikipedia.org/w/load.php?lang=en&modules=jquery&skin=vector-2022&version=tkra7
 
 -Request method
--Get
+1. Get
 
 -Response status code
-- 200
+1. 200
 
